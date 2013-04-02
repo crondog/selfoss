@@ -159,7 +159,7 @@ input {
     }
     
         #nav-sources {
-            display:none;
+            display:block;
         }
     
         #nav-sources li {
